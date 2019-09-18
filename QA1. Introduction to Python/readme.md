@@ -8,4 +8,6 @@
 
 # Requirements #
 - For each item, introduce ONE useful skill or utility in *your own words* and *example codes designed by yourself*.
-- Upload the HTML file creatd by Jupyter Notebook
+- *Your results cannot be a duplicate of any other.*
+- Create HTML file by Jupyter Notebook and specify its name in the form of yourID + QA1.html.
+- Upload the HTML file (and the related folder) to GitHub, i.e., this folder / HERE! 

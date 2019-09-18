@@ -15,4 +15,4 @@
 2. Save both files (and the derived data folder) in a folder named by yourID, e.g., /10812345/.
 3. Upload the folder named by yourID to this repository under this folder /introduction-to-data-mining/QA1/.
 *Remember to notify me by "Pull Request" for merge*
-4. Verify the success of publishing on the Web via the URL: http://felixwuyh.github.io/introduction-to-data-mining/QA1/yourID/, e.g., <a href="http://felixwuyh.github.io/introduction-to-data-mining/QA1/10812345/" target="_blank"> MyURL </a>
+4. Verify the success of publishing on the Web via the URL: https://felixwuyh.github.io/introduction-to-data-mining/QA1/yourID/, e.g., <a href="https://felixwuyh.github.io/introduction-to-data-mining/QA1/10812345/" target="_blank"> MyURL </a>

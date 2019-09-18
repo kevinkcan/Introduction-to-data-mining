@@ -8,8 +8,10 @@
 
 # Requirements #
 - For each item, introduce ONE useful skill or utility in *your own words* and *example codes designed by yourself*.
-- *Any part of your HTML cannot be a duplicate of any other.*
-- Create HTML by Jupyter Notebook and specify its name in the form of yourID + "QA1.html".
-- Upload the HTML file (and the related folder) to GitHub, i.e., this folder. HERE!
-- Verify its success of publishing on the Web via the URL: http://felixwuyh.github.io/introduction-to-data-mining/QA/*yourHTMLname*
-
+- *Any portion of your HTML cannot be a duplicate of any other.*
+# Steps #
+1. Create .ipynb and its HTML file by Jupyter Notebook, e.g., 10812345tutorial.ipynb and index.html.
+2. Save both files (and the derived data folder) in a folder named by yourID, e.g., /10812345/.
+3. Upload the folder named by yourID to this repository under this folder /introduction-to-data-mining/QA1/.
+*Remember to notify me by "Pull Request" for merge*
+4. Verify the success of publishing on the Web via the URL: http://felixwuyh.github.io/introduction-to-data-mining/QA1/yourID/

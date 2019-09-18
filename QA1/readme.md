@@ -7,8 +7,8 @@
 3. File I/O
 
 # Requirements #
-- For each item, introduce ONE useful skill or utility in *your own words* and *example codes designed by yourself*.
-- *Any portion of your HTML cannot be a duplicate of any other.*
+- For each item, introduce ONE useful skill or utility in *your own words* and show *example codes written by yourself*.
+- *The skill or utility you introduce cannot be a duplicate of the others.*
 
 # Steps #
 1. Create .ipynb and its HTML file by Jupyter Notebook, e.g., 10812345tutorial.ipynb and index.html.
